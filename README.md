@@ -13,3 +13,7 @@ Pranith forced me to be here :(
 ## new branch pranith
 
 - Pranith is so cool!
+
+## rebasing whaaat
+
+- i don't know how rebasing works sadge
